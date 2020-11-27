@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dea8db49-d054-46f9-9557-82e8b564b935" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1krFWz4EBJF0cmRU0Mhas5Ihqo1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ftt\go\src\User" />
+      <recent name="C:\Users\ftt\go\src\User\pkg" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606454872674">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="274" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1606454872674" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1606452431791">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1366.738@0.0.1366.738" timestamp="1606452431791" />
+    <state x="738" y="122" key="FileChooserDialogImpl" timestamp="1606452359478">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="738" y="122" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1606452359478" />
+    <state width="904" height="177" key="GridCell.Tab.0.bottom" timestamp="1606470511056">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="177" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1606470511056" />
+    <state width="904" height="177" key="GridCell.Tab.0.center" timestamp="1606470511055">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="177" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1606470511055" />
+    <state width="904" height="177" key="GridCell.Tab.0.left" timestamp="1606470511055">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="177" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1606470511055" />
+    <state width="904" height="177" key="GridCell.Tab.0.right" timestamp="1606470511055">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="904" height="177" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1606470511055" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1606452481933">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.738@0.0.1366.738" timestamp="1606452481933" />
+    <state x="525" y="216" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1" timestamp="1606452134271">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="525" y="216" key="com.intellij.execution.console.ConsoleHistoryController$MyBrowseAction$1/0.0.1366.738@0.0.1366.738" timestamp="1606452134271" />
+  </component>
+</project>
